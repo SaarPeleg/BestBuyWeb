@@ -117,7 +117,7 @@ function PaginationComponent(props) {
             product.shortDescription = modprod.description;
             product.plot = "";
             product.name = modprod.name;
-            product.price = modprod.price;
+            product.salePrice = modprod.price;
             product.images = [{ href: modprod.img }];
             product.image = modprod.img;
 
