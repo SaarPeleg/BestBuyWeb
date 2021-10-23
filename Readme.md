@@ -9,7 +9,9 @@ to match the new address.
 1. the client:
 you can run it via command line in the project folder via "npm install" followed by "npm start".
 or if you want to deploy it you can put the build folder in any folder and run the commands
-`npm install -g serve
-serve -s build`
+
+`npm install -g serve`
+
+`serve -s build`
 in commandline from the folder containing the build directory.
  
